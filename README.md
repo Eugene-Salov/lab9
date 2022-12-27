@@ -30,6 +30,8 @@ The licenses for this project do not grant you rights to use any Microsoft names
 Microsoft's general trademark guidelines can be found at http://go.microsoft.com/fwlink/?LinkID=254653.
 
 Privacy information can be found at https://privacy.microsoft.com/en-us/
+![Рисунок](https://user-images.githubusercontent.com/113088373/209698945-0dadc26e-36c0-4db1-93cf-af7308995110.png)
+
 
 Microsoft and any contributors reserve all others rights, whether under their respective copyrights, patents,
 or trademarks, whether by implication, estoppel or otherwise.
